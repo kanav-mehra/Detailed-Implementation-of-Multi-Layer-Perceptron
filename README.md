@@ -1,4 +1,4 @@
-# Detailed-Implementation-of-Multi-Layer-Perceptron
+# Detailed Implementation of Multi-Layer Perceptron
 This repo contains the detailed implementation of Multi-Layer Perceptron from scratch and comparing the performance of MLP network on multiple datasets. 
 
 * Understanding the MLP architecture from scratch
